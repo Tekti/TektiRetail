@@ -1,2 +1,2 @@
 # TektiRetail
-a retail amnagment
+A retail managment system built in .NET
